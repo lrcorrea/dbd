@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'bakersfieldbold';
+    src: url('fonts/bakersfield_bold_0-webfont.eot');
+    src: url('fonts/bakersfield_bold_0-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bakersfield_bold_0-webfont.woff2') format('woff2'),
+         url('fonts/bakersfield_bold_0-webfont.woff') format('woff'),
+         url('fonts/bakersfield_bold_0-webfont.ttf') format('truetype'),
+         url('fonts/bakersfield_bold_0-webfont.svg#bakersfieldbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bakersfieldlight';
+    src: url('fonts/bakersfield_light-webfont.eot');
+    src: url('fonts/bakersfield_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bakersfield_light-webfont.woff2') format('woff2'),
+         url('fonts/bakersfield_light-webfont.woff') format('woff'),
+         url('fonts/bakersfield_light-webfont.ttf') format('truetype'),
+         url('fonts/bakersfield_light-webfont.svg#bakersfieldlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
